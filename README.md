@@ -6,4 +6,5 @@
 
 ## ¿Quienes somos?
 
-## Integrantes
+## Integrantes:
+### Fernandez Iglesias, Lupica Marini Francisco Joaquin, Monzon Valentin Jeremias Daniel, Monzon Matos Thomas Esteban, Nieto Matias Ezequiel, Pirillo Julian Dante.
