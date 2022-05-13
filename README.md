@@ -17,4 +17,9 @@
 
 ## Integrantes:
 
-#### Fernandez Iglesias Juan Ignacio, Lupica Marini Francisco Joaquin, Monzón Valentín Jeremias Daniel, Monzon Matos Thomas Esteban, Nieto Matias Ezequiel, Pirillo Julián Dante.
+#### Fernandez Iglesias Juan Ignacio: juanignacionfernandez07@gmail.com
+* Lupica Marini Francisco Joaquin: franciscolupica@gmail.com
+* Monzón Valentín Jeremias Daniel: valenjereda10@gmail.com
+* Monzon Matos Thomas Esteban: thomasemonzonm@gmail.com
+* Nieto Matias Ezequiel: mattynieto@gmail.com
+* Pirillo Julián Dante: julipirillo@gmail.com
