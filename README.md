@@ -4,6 +4,8 @@
 
 ## ¿Cuál es nuestro objetivo?
 
+### El objetivo de M.A.R.P. es asistir fisicamente a personas cuya capacidad motriz ha sido reducida, ya sea por haber sufrido daño nervioso y/o deterioro natural.
+
 ## ¿Quienes somos?
 
 ## Integrantes:
