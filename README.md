@@ -8,6 +8,7 @@ M.A.R.P (Mechanical Aid Rehabilitation Prototype) es un prototipo de exoesquelet
 #### El objetivo de M.A.R.P. es asistir fisicamente a personas cuya capacidad motriz ha sido reducida, ya sea por haber sufrido daño nervioso y/o deterioro natural.
 
 ## ¿Quienes somos?
+### Somos un entusiasta grupo de 6 alumnos que se encuentran cursando el último año en la Escuela de Educación Secundaria Técnica N°7 (con especialidad en Aviónica) interesados en temas de medicina, biología y tecnología.
 
 ## Integrantes:
 ### Fernandez Iglesias Juan Ignacio, Lupica Marini Francisco Joaquin, Monzón Valentín Jeremias Daniel, Monzon Matos Thomas Esteban, Nieto Matias Ezequiel, Pirillo Julian Dante.
