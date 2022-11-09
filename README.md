@@ -1,7 +1,7 @@
+<div align="center">
+
 # Mechanical Aid Rehabilitation Prototype
 
-<div align="center">
- 
 <img src="logo.jpg" alt="Logo proyecto" width="350"/>
 
 ## ¿En qué consiste?
