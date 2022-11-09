@@ -34,3 +34,11 @@
 ### FERNANDEZ IGLESIAS, Juan Ignacion
     📷 Instagram: juani.rvv
     📧 Email: juanignaciofernandez07@gmail.com
+    
+    
+## Contacto del proyecto
+
+    📧 Email: marpimpatrq@gmail.com
+    📷 Instagram: marp_impatrq
+    📞 Telefono: 1161022940
+    
