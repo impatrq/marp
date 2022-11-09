@@ -1,4 +1,4 @@
-# MARP
+# Mechanical Aid Rehabilitation Prototype
 
 <img src="logo.jpg" alt="Logo proyecto" width="250"/>
 
