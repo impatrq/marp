@@ -1,6 +1,6 @@
 # MARP
 
-<img src="Escritorio/logo.jpg" alt="Logo proyecto" width="250"/>
+<img src="logo.jpg" alt="Logo proyecto" width="250"/>
 
 ## ¿En qué consiste?
 
