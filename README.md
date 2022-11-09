@@ -19,6 +19,23 @@
 
 ## Integrantes:
 
+### NIETO, Matias Ezequiel
+    📷 Instagram: matty_nieto
+    📧 Email: mattynieto@gmail.com
+### MONZÓN, Valentín Jeremias Daniel
+    📷 Instagram: valen_monzii
+    📧 Email: valenjereda10@gmail.com
+### MONZON MATOS, Thomas Esteban 
+    📷 Instagram: thomasmonzonmatos
+    📧 Email: thomasemonzonm@gmail.com
+### PIRILLO, Julian Dante 
+    📷 Instagram: urielbenitezz
+    📧 Email: unbenitez@gmail.com
+### FERNANDEZ IGLESIAS, Juan Ignacion
+    📷 Instagram: juani.rvv
+    📧 Email: juanignaciofernandez07@gmail.com
+    
+
 #### Fernandez Iglesias Juan Ignacio: juanignacionfernandez07@gmail.com
 * Lupica Marini Francisco Joaquin: franciscolupica@gmail.com
 * Monzón Valentín Jeremias Daniel: valenjereda10@gmail.com
