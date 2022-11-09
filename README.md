@@ -38,10 +38,9 @@
 
 
 ## Contacto:
-cualquier duda la pueden consultar por:
+Cualquier duda la pueden consultar por:
 
-
-📧 Email: marpimpatrq@gmail.com
-📷 Instagram: marp_impatrq
+###📧 Email: marpimpatrq@gmail.com
+#📷 Instagram: marp_impatrq
 📞 Telefono: 1161022940
 
