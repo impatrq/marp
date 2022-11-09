@@ -34,11 +34,3 @@
 ### FERNANDEZ IGLESIAS, Juan Ignacion
     📷 Instagram: juani.rvv
     📧 Email: juanignaciofernandez07@gmail.com
-    
-
-#### Fernandez Iglesias Juan Ignacio: juanignacionfernandez07@gmail.com
-* Lupica Marini Francisco Joaquin: franciscolupica@gmail.com
-* Monzón Valentín Jeremias Daniel: valenjereda10@gmail.com
-* Monzon Matos Thomas Esteban: thomasemonzonm@gmail.com
-* Nieto Matias Ezequiel: mattynieto@gmail.com
-* Pirillo Julián Dante: julipirillo@gmail.com
