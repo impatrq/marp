@@ -31,8 +31,8 @@
     📷 Instagram: thomasmonzonmatos
     📧 Email: thomasemonzonm@gmail.com
 ### PIRILLO, Julian Dante 
-    📷 Instagram: urielbenitezz
-    📧 Email: unbenitez@gmail.com
+    📷 Instagram: julianpirillo.03
+    📧 Email: julipirillo@gmail.com
 ### FERNANDEZ IGLESIAS, Juan Ignacion
     📷 Instagram: juani.rvv
     📧 Email: juanignaciofernandez07@gmail.com
