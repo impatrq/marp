@@ -1,0 +1,13 @@
+body {
+    background-image: ("fondo negro 2.jpg");
+    background-size: cover;
+    background-repeat:repeat;
+    background-position: center center; 
+  }
+.resumen__contenedor{
+    color:white;
+}
+
+.tittle{
+    font-display: white;
+}
