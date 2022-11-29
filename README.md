@@ -21,6 +21,8 @@
 
 ## Integrantes:
 
+<img src="IMG-20221113-WA0000.jpg" alt="Integrantes" width="350"/>
+
 ### NIETO, Matias Ezequiel
     📷 Instagram: matty_nieto
     📧 Email: mattynieto@gmail.com
@@ -45,4 +47,3 @@ Cualquier duda la pueden consultar por:
     📧 Email: marpimpatrq@gmail.com
     📷 Instagram: marp_impatrq
     📞 Telefono: 1161022940
-
