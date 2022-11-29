@@ -38,6 +38,9 @@
 ### FERNANDEZ IGLESIAS, Juan Ignacion
     📷 Instagram: juani.rvv
     📧 Email: juanignaciofernandez07@gmail.com
+### LUPICA MARINI, Francisco Joaquin
+    📷 Instagram: lupik_trq
+    📧 Email: franciscolupica@gmail.com
 
 
 
